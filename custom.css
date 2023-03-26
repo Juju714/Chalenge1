@@ -1,0 +1,45 @@
+:root{
+    font-family: 'Outfit', sans-serif;
+}
+
+.degrade{
+    background-color:  lightsteelblue;
+}
+
+.tamanhoJPG{
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+   
+}
+
+.container{
+    border-radius: 15px;
+    text-align: center;
+    background-color: white;
+    width: 20%;
+    height: 60%;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 10px 15px 10px;
+
+}
+
+.texto{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: bolder;
+    color: hsl(218, 44%, 22%);
+}
+
+.texto2{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    font-size: 10px;
+    color: gray;
+}
+
